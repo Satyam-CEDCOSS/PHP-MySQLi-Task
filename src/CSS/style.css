@@ -1,0 +1,16 @@
+/* Display Page Styling */
+
+.card-title{
+    text-align: center;
+    color: white;
+}
+
+.header__table{
+    margin: auto;
+    margin-top: 50px;
+}
+table, th, td {
+    border: 1px solid yellow;
+    padding: 10px 20px;
+    color: white;
+}
